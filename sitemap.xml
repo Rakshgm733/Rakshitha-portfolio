@@ -14,11 +14,5 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
-    <!-- Marks Percentage Calculator Page -->
-    <url>
-        <loc>https://sohez.github.io/Marks-Percentage-Calculator/</loc>
-        <lastmod>2025-02-04</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
+   
 </urlset>
